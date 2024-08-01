@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A full-stack developer & student based in California</h3>
+<h3 align="center">Software Engineer, Computer Science student, and CTO based in Southern California</h3>
 
 - 🔭 I’m currently working on @nitrous-oxi-de, an OSINT tool
 - 🌱 I’m currently learning **Golang**
