@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'. David</h1>
-<h2 align="center">`typescript, python, java, c++, go`</h2>
+<h1 align="center">Hi, I'm David.</h1>
+`typescript, python, java, c++, go`
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://gh-rdme.vercel.app/api?username=dvhsh&theme=material-palenight" />
