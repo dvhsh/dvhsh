@@ -2,16 +2,12 @@
 <h3 align="center">Software Engineer, Computer Science student, and CTO based in Southern California</h3>
 
 - 🔭 I’m currently working on [nitrous-oxi.de](https://github.com/nitrous-oxi-de), an OSINT investigation suite
-- 🔭 I'm also working on [Morbo](https://github.com/MorbotheAnnihilator), a Discord.js bot
+- 🔭 [Morbo the Annihilator](https://github.com/MorbotheAnnihilator), a multipurposed Discord.js utility bot
+- 🔭 [wrapper.directory](https://github.com/wrapper-directory), a set of standardized API wrappers
+- 🔭 [readme.directory](https://github.com/readme-directory), a set of readme-esk document generation tools
+- 🔭 [cheat.directory](https://github.com/cheat-directory), a set of redumentory game cheating resources
+- 🔭 [dvh.sh](https://github.com/dvh-sh), a personal project portfolio
 - 🌱 I’m currently learning **Golang**
-- 👨‍💻 All of my projects are available at [dvh.sh](https://dvh.sh)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.leetcode.com/dvhsh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dvhsh" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
