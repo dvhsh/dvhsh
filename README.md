@@ -3,9 +3,6 @@
 
 - 🔭 I’m currently working on [nitrous-oxi.de](https://github.com/nitrous-oxi-de), an OSINT investigation suite
 - 🔭 [Morbo the Annihilator](https://github.com/MorbotheAnnihilator), a multipurposed Discord.js utility bot
-- 🔭 [wrapper.directory](https://github.com/wrapper-directory), a set of standardized API wrappers
-- 🔭 [readme.directory](https://github.com/readme-directory), a set of readme-esk document generation tools
-- 🔭 [cheat.directory](https://github.com/cheat-directory), a set of redumentory game cheating resources
 - 🔭 [dvh.sh](https://github.com/dvh-sh), a personal project portfolio
 - 🌱 I’m currently learning **Golang**
 
