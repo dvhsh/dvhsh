@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Software Engineer, Computer Science student, and CTO based in Southern California</h3>
+<h3 align="center">Software Engineer, CSIS Student, and CTO based in Southern California</h3>
 
 - 🔭 I’m currently working on [nitrous-oxi.de](https://github.com/nitrous-oxi-de), an OSINT investigation suite
-- 🔭 [Morbo the Annihilator](https://github.com/MorbotheAnnihilator), a multipurposed Discord.js utility bot
-- 🔭 [dvh.sh](https://github.com/dvh-sh), a personal project portfolio
 - 🌱 I’m currently learning **Golang**
 
 <h3 align="left">Languages and Tools:</h3>
