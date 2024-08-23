@@ -6,8 +6,5 @@
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="200" src="https://gh-rdme.vercel.app/api?username=dvhsh&theme=material-palenight" />
-    <img height="200" src="https://gh-rdme.vercel.app/api/top-langs?username=dvhsh&theme=material-palenight&layout=compact&langs_count=8&card_width=320" />
-  </div>
+  <img height="200" src="https://gh-rdme.vercel.app/api?username=dvhsh&theme=material-palenight" />
 </p>
