@@ -29,7 +29,6 @@ return {
 					hide_by_name = {
 						-- These files will be hidden, but can be toggled with 'H'
 						"node_modules",
-						".git",
 					},
 				},
 			},
