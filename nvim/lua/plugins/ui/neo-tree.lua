@@ -18,17 +18,18 @@ return {
 			filesystem = {
 				follow_current_file = true,
 				filtered_items = {
-					visible = true, -- Makes hidden files visible by default
+					visible = false,
 					hide_dotfiles = false,
 					hide_gitignored = false,
 					hide_hidden = false,
-					never_show = { -- These files will NEVER be shown
+					never_show = {
 						".DS_Store",
 						"thumbs.db",
 					},
 					hide_by_name = {
-						-- These files will be hidden, but can be toggled with 'H'
 						"node_modules",
+						".git",
+						".next",
 					},
 				},
 			},
