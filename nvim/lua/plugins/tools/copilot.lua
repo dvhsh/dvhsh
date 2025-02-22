@@ -8,11 +8,8 @@ return {
 			vim.g.copilot_assume_mapped = true
 			vim.g.copilot_tab_fallback = ""
 
-			-- Use Ctrl+Tab for copilot accept
-			vim.keymap.set("i", "<C-Tab>", 'copilot#Accept("<CR>")', {
-				expr = true,
-				replace_keycodes = false,
-			})
+			-- Use Control + L for autocomplete
+			vim.keymap.set("i", "<C-l>", 'copilot#Accept("<CR>")', { silent = true, expr = true })
 
 			-- Additional keymaps
 			vim.keymap.set("i", "<M-[>", "<Plug>(copilot-previous)", { silent = true })
