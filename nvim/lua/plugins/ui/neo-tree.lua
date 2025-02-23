@@ -30,6 +30,8 @@ return {
 						"node_modules",
 						".git",
 						".next",
+					},
+					never_show_by_pattern = {
 						"*.o",
 					},
 				},
