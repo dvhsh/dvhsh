@@ -30,6 +30,7 @@ return {
 						"node_modules",
 						".git",
 						".next",
+						"*.o",
 					},
 				},
 			},
