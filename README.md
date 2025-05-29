@@ -20,16 +20,6 @@
 
 <hr/>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvhsh&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="dvhsh Top Languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvhsh&theme=material-palenight" alt="dvhsh GitHub Streak" />
-</p>
-
-<hr/>
-
 ## 📫 How to reach me:
 <p align="left">
   <a href="https://linkedin.com/in/dvhsh" target="_blank">LinkedIn</a> |
