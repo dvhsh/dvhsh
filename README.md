@@ -17,12 +17,3 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,linux,nginx,mongodb,mysql,digitalocean,oracle,letsencrypt&theme=dark&perline=5&titles=true" />
   </a>
 </p>
-
-<hr/>
-
-## 📫 How to reach me:
-<p align="left">
-  <a href="https://linkedin.com/in/dvhsh" target="_blank">LinkedIn</a> |
-  <a href="https://dvh.sh" target="_blank">My Portfolio</a>
-</p>
-
