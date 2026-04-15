@@ -4,9 +4,9 @@
 
 <br/>
 
-building [vane](https://usevane.com) · consulting via [haruhime holdings](https://github.com/dvhsh) · math & cs @ msjc
-
-`typescript` `next.js` `react` `fastify` `docker` `mongodb`
+<p align="center">
+  building <a href="https://usevane.com">vane</a> · building <a href="https://hive.to">hive</a>
+</p>
 
 <br/>
 
