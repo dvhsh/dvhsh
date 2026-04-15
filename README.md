@@ -9,7 +9,3 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <img height="175" src="https://gh-rdme.vercel.app/api?username=dvhsh&theme=material-palenight&hide_border=true&bg_color=0d1117" />
-</p>
